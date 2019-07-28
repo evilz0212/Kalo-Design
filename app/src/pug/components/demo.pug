@@ -1,0 +1,10 @@
+mixin demo(title, description, link, pic)
+    li
+        .box
+            a(href=link, target='_blank')
+                .title
+                    .titlecenter
+                        h4= title
+                        p= description
+                        block
+                img.cover(src=pic, alt='') 

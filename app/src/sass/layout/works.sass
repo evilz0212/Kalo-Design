@@ -1,0 +1,69 @@
+.parallax-window02
+    padding-bottom: 60px
+    
+.portfoliocontent
+    padding-top: 100px
+    text-align: center
+    max-width: 1000px
+    margin: 0 auto
+
+@media (max-width: 768px)
+    .allportfolio
+        width: 90%
+        margin: 0 5% 0 5%
+
+.box
+    max-width: 320px
+    max-height: 200px
+    float: left
+    margin: 5px
+    position: relative
+    overflow: hidden
+    //border-radius: 8px
+    img
+        max-height: 200px
+
+.title
+    background: rgba(255, 255, 255, 0.7)
+    position: absolute
+    width: 100%
+    height: 100%
+    opacity: 0
+    transition: all ease .5s
+    color: #262626
+    //border-radius: 8px
+    &:hover
+        opacity: 1
+
+.titlecenter
+    p
+        font-size: 22px
+        font-weight: 700
+        text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.1)
+    h4
+        font-weight: 700
+    .tags
+        display: inline-block
+        padding: 2px 4px
+        font-weight: 500
+        line-height: 16px
+        font-size: 12px
+        background: rgba(0,0,0,0.6)
+        color: #fff
+        margin: 2px
+
+.title:before
+    content: ""
+    height: 100%
+    display: inline-block
+    vertical-align: middle
+
+.titlecenter
+    display: inline-block
+    vertical-align: middle
+    line-height: 25px
+
+.portfoliocontent h2
+    font-size: 40px
+    color: #000
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.1)

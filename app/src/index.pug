@@ -1,0 +1,28 @@
+doctype html
+html(lang="en")
+    head
+        meta(charset="UTF-8")
+        meta(name="viewport" content="width=device-width, initial-scale=1.0")
+
+        // info
+        title Kalo Design
+        link(rel="shortcut icon" href="images/favicon.ico")
+
+        meta(name="description" content="Kalo Design")
+        meta(name="keywords" content="KaloDesign")
+
+        meta(property="og:title" content="Kalo Design")
+        meta(property="og:description" content="Welcome To My Work")
+        meta(property="og:type" content="website")
+        meta(property="og:url" content="https://evilz0212.github.io/kalo/")
+        meta(property="og:image" content="images/fb.jpg")
+        
+    body
+        .wrap
+            include pug/menu.pug
+            include pug/header.pug
+            include pug/about.pug
+            include pug/skill.pug
+            include pug/works.pug
+            include pug/content.pug
+        include pug/footer.pug
