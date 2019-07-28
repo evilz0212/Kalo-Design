@@ -2,7 +2,7 @@
 
 * Education: 高雄第一科技大學 資訊管理系 (2013 - 2018)
 * Email: evilz0212@gmail.com
-* Web Resume(https://evilz0212.github.io/Kalo-Resume/)
+* Web Resume(https://evilz0212.github.io/Kalo-Design/app/dist/)
 
 
 ## 關於我 About
