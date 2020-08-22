@@ -1,19 +1,19 @@
 {
-    "name": "Kalo-Design",
+    "name": "Carlos-Design",
     "version": "1.0.0",
     "description": "",
     "main": "main.js",
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/evilz0212/Kalo-Design.git"
+        "url": "git+https://github.com/evilz0212/Carlos-Design.git"
     },
     "keywords": [],
     "author": "",
     "license": "ISC",
     "bugs": {
-        "url": "https://github.com/evilz0212/Kalo-Design/issues"
+        "url": "https://github.com/evilz0212/Carlos-Design/issues"
     },
-    "homepage": "https://github.com/evilz0212/Kalo-Design#readme",
+    "homepage": "https://github.com/evilz0212/Carlos-Design#readme",
     "private": true,
     "scripts": {
         "watch": "webpack-dev-server -d --watch",
