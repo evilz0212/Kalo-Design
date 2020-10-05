@@ -5,15 +5,15 @@
     "main": "main.js",
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/evilz0212/Carlos-Design.git"
+        "url": "git+https://github.com/evilz0212/carlos-design.git"
     },
     "keywords": [],
     "author": "",
     "license": "ISC",
     "bugs": {
-        "url": "https://github.com/evilz0212/Carlos-Design/issues"
+        "url": "https://github.com/evilz0212/carlos-design/issues"
     },
-    "homepage": "https://github.com/evilz0212/Carlos-Design#readme",
+    "homepage": "https://github.com/evilz0212/carlos-design#readme",
     "private": true,
     "scripts": {
         "watch": "webpack-dev-server -d --watch",
@@ -39,11 +39,11 @@
         "image-webpack-loader": "^5.0.0",
         "imports-loader": "^0.8.0",
         "interpolate-html-plugin": "^3.0.0",
-        "jquery": "^3.4.1",
+        "jquery": "^3.5.1",
         "jquery-parallax": "^1.0.1",
         "jquery-parallax.js": "^1.5.0",
         "mini-css-extract-plugin": "^0.8.0",
-        "node-sass": "^4.12.0",
+        "node-sass": "^4.14.1",
         "optimize-css-assets-webpack-plugin": "^5.0.3",
         "postcss-loader": "^3.0.0",
         "precss": "^4.0.0",
@@ -59,7 +59,7 @@
         "url-loader": "^2.1.0",
         "webpack": "^4.36.1",
         "webpack-cli": "^3.3.6",
-        "webpack-dev-server": "^3.7.2",
+        "webpack-dev-server": "^3.11.0",
         "webpack-livereload-plugin": "^2.2.0",
         "webpack-merge": "^4.2.1"
     }
